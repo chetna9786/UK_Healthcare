@@ -1,1 +1,6 @@
-# UK_Healthcare
+# US_Healthcare is meticulously designed to provide an insightful analysis of key facets within the U.S. healthcare system. Unfolding as a narrative, each page of this dashboard reveals a different chapter, offering profound insights and valuable learning within the intricate worls of U.S.healthcare. 
+**Executive Summary**:    Begin your journey with a high-level overview of pivotal trends and metrics that have shaped the U.S. healthcare landscape during the year 2019 to 2020.
+**Hospital Analysis**:    Dive into a thorough examinitation of healthcare institude,scrutinizing performance metrics,patient outcomes,and operational efficiency.Discover patterns that can guide strategic dicision-making for healthcare providers.
+**Patient Analysis**:    Explore patient-centric data to unravel demographic trends, treatment effectiveness , and overall patient experience. This section aims to enhance the understanding of heathcare delivery from the perpective of those receiving care.
+**Payer-Provider Analysis**:    Delve into the inyricate dynamics between payers and healthcare provides. Analysis financial interactions, reimbursement trends, and collaborative opportunities for a nuanced perspective on the industry.
+**Monthly Expenses Overview**:   Obtain a comprehensive snapshot of monthly expenses across various facets of the healthcare system.
